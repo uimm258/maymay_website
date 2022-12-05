@@ -1,0 +1,10 @@
+.education {
+    padding: 2em;
+    margin: 0 auto;
+    box-shadow: var(--shadow);
+    transition: transform 0.2s linear;
+}
+  
+.education:hover {
+    transform: translateX(-7px);
+}
