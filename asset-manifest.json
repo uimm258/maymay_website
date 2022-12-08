@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Maymay_portfolio/static/css/main.2f07258c.chunk.css",
-    "main.js": "/Maymay_portfolio/static/js/main.43411a1c.chunk.js",
-    "main.js.map": "/Maymay_portfolio/static/js/main.43411a1c.chunk.js.map",
-    "runtime-main.js": "/Maymay_portfolio/static/js/runtime-main.4dcac7dd.js",
-    "runtime-main.js.map": "/Maymay_portfolio/static/js/runtime-main.4dcac7dd.js.map",
-    "static/js/2.2a51663e.chunk.js": "/Maymay_portfolio/static/js/2.2a51663e.chunk.js",
-    "static/js/2.2a51663e.chunk.js.map": "/Maymay_portfolio/static/js/2.2a51663e.chunk.js.map",
+    "main.js": "/Maymay_portfolio/static/js/main.a1f05ebc.chunk.js",
+    "main.js.map": "/Maymay_portfolio/static/js/main.a1f05ebc.chunk.js.map",
+    "runtime-main.js": "/Maymay_portfolio/static/js/runtime-main.c0ea8b26.js",
+    "runtime-main.js.map": "/Maymay_portfolio/static/js/runtime-main.c0ea8b26.js.map",
+    "static/js/2.95507c94.chunk.js": "/Maymay_portfolio/static/js/2.95507c94.chunk.js",
+    "static/js/2.95507c94.chunk.js.map": "/Maymay_portfolio/static/js/2.95507c94.chunk.js.map",
     "index.html": "/Maymay_portfolio/index.html",
     "static/css/main.2f07258c.chunk.css.map": "/Maymay_portfolio/static/css/main.2f07258c.chunk.css.map",
-    "static/js/2.2a51663e.chunk.js.LICENSE.txt": "/Maymay_portfolio/static/js/2.2a51663e.chunk.js.LICENSE.txt"
+    "static/js/2.95507c94.chunk.js.LICENSE.txt": "/Maymay_portfolio/static/js/2.95507c94.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4dcac7dd.js",
-    "static/js/2.2a51663e.chunk.js",
+    "static/js/runtime-main.c0ea8b26.js",
+    "static/js/2.95507c94.chunk.js",
     "static/css/main.2f07258c.chunk.css",
-    "static/js/main.43411a1c.chunk.js"
+    "static/js/main.a1f05ebc.chunk.js"
   ]
 }
