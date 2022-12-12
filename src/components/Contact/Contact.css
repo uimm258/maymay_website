@@ -1,3 +1,7 @@
 .contact {
   flex-direction: column;
 }
+
+.contact >a {
+  padding-top: 1rem;
+}
