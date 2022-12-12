@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'uimm258@gmail.com',
+  homepage: 'please email me @ uimm258@gmail.com',
   title: "How to find me?",
 }
 
